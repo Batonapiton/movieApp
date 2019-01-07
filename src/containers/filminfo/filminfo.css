@@ -1,0 +1,14 @@
+.film-info{
+    display: flex;
+    flex-flow: column wrap;
+    margin: 10px;
+}
+.film-info__content{
+    display: flex;
+}
+.film-info__description{
+    margin: 10px;
+}
+.film-episodes__title{
+    margin: 10px;
+}
